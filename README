@@ -1,0 +1,8 @@
+Option_Calculator takes inputs 
+-current stock price
+-option strike price
+-option duration
+-risk free interest rate
+-volatility
+and calculates the american or european put and call prices as well as the
+corresponding "Greeks"
